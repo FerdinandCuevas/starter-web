@@ -9,3 +9,6 @@ Sample website with plenty of files for demos.
 #### COPYRIGHT
 
 Git.Training!!!
+
+### How to contribute
+Dont know lolll
