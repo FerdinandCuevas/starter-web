@@ -13,3 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+    A little text for stash example
