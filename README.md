@@ -14,4 +14,4 @@ Git.Training!!!
 Dont know lolll
 
 ### XDDD
-Rebasing example, more changes now.
+Rebasing example, more changes now. Stash text example
