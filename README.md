@@ -12,3 +12,6 @@ Git.Training!!!
 
 ### How to contribute
 Dont know lolll
+
+### XDDD
+Rebasing example
